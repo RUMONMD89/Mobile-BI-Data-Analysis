@@ -1,5 +1,5 @@
 # Mobile-BI-Data-Analysis
-( MYSQL+ Power BI ) 
+( MySQL+ Power BI ) 
 
 
 <img src="pictures/BI data visualization.png" width="700px">
