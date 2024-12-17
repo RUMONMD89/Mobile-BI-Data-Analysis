@@ -1,2 +1,2 @@
-# Mobil-BI-Data-Analysis
+# Mobile-BI-Data-Analysis
 ( MYSQL+ Power BI ) 
