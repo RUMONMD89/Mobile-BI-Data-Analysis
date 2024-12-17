@@ -1,4 +1,5 @@
 # Mobile-BI-Data-Analysis
 ( MYSQL+ Power BI ) 
 
-<img src="pictures/Screenshot 2024-11-18 193733.png" height="400px" width ="550px">　
+<img src="pictures/BI data visualization.png" height="400px" width ="550px">　
+<img src="pictures/BI data visualization.png" width="700px">
