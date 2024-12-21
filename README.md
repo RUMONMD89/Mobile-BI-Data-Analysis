@@ -10,8 +10,11 @@ https://dev.mysql.com/downloads/installer/
 https://dev.mysql.com/downloads/connector/net/
 
 
-<img src="pictures/BI data visualization.png" width="700px">
-
 課題：
 1) Find  the top5 most expensive phone.
-<img src="pictures/top5 most expensive phone.png" height="300px" width ="550px">
+<img src="pictures/top5 most expensive phone.png" height="300px" width ="600px">
+2) The top5 lowest phone.
+<img src="pictures/top5 lowest phone.png" height="300px" width ="600px">
+
+Data Visualization with Power BI
+<img src="pictures/BI data visualization.png" width="700px">
